@@ -9,3 +9,5 @@ O modelo MLP foi o que apresentou melhor desempenho, com média de 87,58% de acu
 A proposta é que este tipo de solução possa ser aplicada como ferramenta de triagem automatizada em contextos como Unidades Básicas de Saúde (UBS), auxiliando na priorização de atendimentos e no planejamento de políticas públicas baseadas em dados.
 
 O repositório inclui o código de pré-processamento, balanceamento da base, treinamento dos modelos, avaliação de desempenho e visualizações como a curva ROC.
+
+O arquivo 'df_balanceado' traz o dataset utilizado e o arquivo 'modelo_balanceado' apresenta o código MLP.
